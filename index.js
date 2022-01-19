@@ -1,4 +1,6 @@
-console.log('xuxu')
+console.log('peixinho')
+let texto = "banana"
+let numero = 555
 
 /*
 FLUXO INICIAL (COMEÇANDO O PROJETO DO ZERO AGORA NESSE MOMENTO SEM FORKAR DE NENHUM OUTRO)
